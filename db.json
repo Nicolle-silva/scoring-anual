@@ -1,10 +1,123 @@
-[{"id":17,"nombre":"Octubre","data":[{"tipo":"Facturas Cesión","cantidad":18,"monto":"496737415"},{"tipo":"Lista Negra","cantidad":11,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":20,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":17,"monto":"669880259"},{"tipo":"Lista Negra","cantidad":19,"monto":"581610037"}],"codigo":1,"mensaje":"error","selected":false},
-{"id":8,"nombre":"Diciembre","data":[{"tipo":"Lista Negra","cantidad":17,"monto":"669880259"},{"tipo":"Lista Negra","cantidad":15,"monto":"581610037"},{"tipo":"Lista Blanca","cantidad":19,"monto":"669880259"},{"tipo":"Lista Negra","cantidad":19,"monto":"581610037"},{"tipo":"Facturas Rechazadas","cantidad":18,"monto":"581610037"}],"codigo":1,"mensaje":"success","selected":true},
-{"id":63,"nombre":"Abril","data":[{"tipo":"Lista Negra","cantidad":16,"monto":"136099860"},{"tipo":"Lista Negra","cantidad":13,"monto":"496737415"},{"tipo":"Facturas Cesión","cantidad":13,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":14,"monto":"258649493"},{"tipo":"Facturas Cesión","cantidad":12,"monto":"581610037"}],"codigo":0,"mensaje":"error","selected":false},
-{"id":7,"nombre":"Noviembre","data":[{"tipo":"Facturas Cesión","cantidad":10,"monto":"581610037"},{"tipo":"Lista Blanca","cantidad":13,"monto":"669880259"},{"tipo":"Facturas Cesión","cantidad":14,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":17,"monto":"351819720"},{"tipo":"Lista Blanca","cantidad":11,"monto":"581610037"},{"tipo":"Lista Blanca","cantidad":12,"monto":"669880259"}],"codigo":1,"mensaje":"success","selected":false},
-{"id":78,"nombre":"Octubre","data":[{"tipo":"Lista Negra","cantidad":17,"monto":"581610037"},{"tipo":"Factura Acepradas","cantidad":16,"monto":"581610037"},{"tipo":"Facturas Cesión","cantidad":17,"monto":"496737415"}],"codigo":0,"mensaje":"success","selected":false},
-{"id":9,"nombre":"Octubre","data":[{"tipo":"Lista Negra","cantidad":12,"monto":"581610037"},{"tipo":"Facturas Recibidas","cantidad":20,"monto":"669880259"},{"tipo":"Factura Acepradas","cantidad":19,"monto":"258649493"},{"tipo":"Lista Blanca","cantidad":18,"monto":"351819720"},{"tipo":"Lista Negra","cantidad":13,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":19,"monto":"581610037"}],"codigo":0,"mensaje":"error","selected":true},
-{"id":39,"nombre":"Diciembre","data":[{"tipo":"Lista Negra","cantidad":14,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":15,"monto":"496737415"},{"tipo":"Lista Negra","cantidad":12,"monto":"351819720"},{"tipo":"Facturas Rechazadas","cantidad":17,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":13,"monto":"581610037"}],"codigo":1,"mensaje":"error","selected":false},
-{"id":60,"nombre":"Agosto","data":[{"tipo":"Lista Negra","cantidad":10,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":14,"monto":"581610037"},{"tipo":"Facturas Rechazadas","cantidad":15,"monto":"258649493"},{"tipo":"Facturas Cesión","cantidad":10,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":19,"monto":"581610037"}],"codigo":1,"mensaje":"success","selected":false},
-{"id":2,"nombre":"Octubre","data":[{"tipo":"Lista Blanca","cantidad":16,"monto":"351819720"},{"tipo":"Lista Negra","cantidad":18,"monto":"258649493"},{"tipo":"Lista Negra","cantidad":12,"monto":"581610037"},{"tipo":"Lista Negra","cantidad":20,"monto":"496737415"},{"tipo":"Lista Blanca","cantidad":17,"monto":"581610037"}],"codigo":0,"mensaje":"success","selected":true},
-{"id":12,"nombre":"Diciembre","data":[{"tipo":"Lista Negra","cantidad":20,"monto":"496737415"},{"tipo":"Lista Negra","cantidad":20,"monto":"496737415"},{"tipo":"Lista Blanca","cantidad":17,"monto":"496737415"},{"tipo":"Factura Acepradas","cantidad":14,"monto":"496737415"},{"tipo":"Facturas Cesión","cantidad":12,"monto":"669880259"}],"codigo":1,"mensaje":"error","selected":false}]
+[{
+  "id": 7,
+  "nombre": "Diciembre",
+  "data": [
+    {
+      "tipo": "Facturas Cesión",
+      "cantidad": 15,
+      "monto": "669880259"
+    },
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 14,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 12,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Blanca",
+      "cantidad": 10,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Facturas Cesión",
+      "cantidad": 12,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 20,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Blanca",
+      "cantidad": 11,
+      "monto": "669880259"
+    }
+  ],
+  "codigo": 1,
+  "mensaje": "success",
+  "selected": true
+}, {
+  "id": 23,
+  "nombre": "Noviembre",
+  "data": [
+    {
+      "tipo": "Lista Blanca",
+      "cantidad": 16,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Blanca",
+      "cantidad": 11,
+      "monto": "258649493"
+    },
+    {
+      "tipo": "Facturas Rechazadas",
+      "cantidad": 19,
+      "monto": "258649493"
+    },
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 18,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 18,
+      "monto": "581610037"
+    }
+  ],
+  "codigo": 0,
+  "mensaje": "success",
+  "selected": true
+}, {
+  "id": 32,
+  "nombre": "Diciembre",
+  "data": [
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 16,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Facturas Cesión",
+      "cantidad": 17,
+      "monto": "581610037"
+    },
+    {
+      "tipo": "Facturas Recibidas",
+      "cantidad": 19,
+      "monto": "581610037"
+    }
+  ],
+  "codigo": 0,
+  "mensaje": "error",
+  "selected": true
+}, {
+  "id": 87,
+  "nombre": "Diciembre",
+  "data": [
+    {
+      "tipo": "Lista Negra",
+      "cantidad": 18,
+      "monto": "669880259"
+    },
+    {
+      "tipo": "Facturas Cesión",
+      "cantidad": 14,
+      "monto": "496737415"
+    },
+    {
+      "tipo": "Facturas Recibidas",
+      "cantidad": 15,
+      "monto": "581610037"
+    }
+  ],
+  "codigo": 0,
+  "mensaje": "success",
+  "selected": true
+}]
